@@ -1,1 +1,12 @@
 ---
+include:
+  - board: xiao_ble//zmk
+    shield: n40cs_left
+    artifact-name: n40cs_left
+    snippet: studio-rpc-usb-uart
+  - board: xiao_ble//zmk
+    shield: n40cs_right
+    artifact-name: n40cs_right
+  - board: xiao_ble//zmk
+    shield: settings_reset
+    artifact-name: settings_reset

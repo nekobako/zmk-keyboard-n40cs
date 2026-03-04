@@ -1,0 +1,13 @@
+file_format: "1"
+id: n40cs
+name: N40CS
+type: shield
+url: https://github.com/nekobako/zmk-keyboard-n40cs
+features:
+  - keys
+  - studio
+requires:
+  - seeed_xiao
+siblings:
+  - n40cs_left
+  - n40cs_right
